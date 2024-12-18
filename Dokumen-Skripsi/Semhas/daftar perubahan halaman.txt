@@ -1,0 +1,9 @@
+Halaman 4 - Tambahan untuk poin Batasan Masalah
+Halaman 23 s.d. 26 - Sub Bab baru 2.6 Pengujian Perangkat Lunak dan 2.8 Software Quality Assurance
+Halaman 
+Halaman 29 - Sub Bab Baru 2.11 Interpretasi Kelayakan Halaman
+Halaman 228 s.d. 231 - Perbaikan resolusi hasil black box testing untuk build 1
+Halaman 238 s.d. 239 - Perbaikan resolusi hasil black box testing untuk build 2
+Halaman 253 s.d. 255 - Perbaikan resolusi hasil black box testing untuk build 3
+Halaman 259 - Tambahan Kesimpulan Hasil Interpretasi Pengujian dengan ISO 25010 faktor functional suitability
+Halaman 264 - Tambahan Kesimpulan Hasil Interpretasi Pengujian dengan ISO 25010 faktor interaction capability
